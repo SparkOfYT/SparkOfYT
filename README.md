@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm sparkofyt!</h1>
 <h3 align="center">Just another Developer from Germany</h3>
 
