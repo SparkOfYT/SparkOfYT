@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm sparkofyt!</h1>
 <h3 align="center">Just another Developer from Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sparkofyt&label=Profile%20views&color=0e75b6&style=flat" alt="sparkofyt" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sparkofyt&label=Profile%20views&color=0e75b6&style=flat" alt="sparkofyt" /> </p>
 
 - 🌱 I’m currently looking **to improve my skills**
 
